@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Convertisseur Schematic</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="workspace">
+        <div class="panel converter-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">EarthQuest / NationsGlory</p>
+              <h1>Convertisseur de schematic</h1>
+            </div>
+            <div class="pixel-preview" aria-hidden="true">
+              <span></span><span></span><span></span><span></span>
+              <span></span><span></span><span></span><span></span>
+              <span></span><span></span><span></span><span></span>
+            </div>
+          </div>
+
+          <form id="converterForm" class="converter-form">
+            <label class="file-zone" for="schematicFile">
+              <span class="file-zone-title">Choisir un fichier .schematic</span>
+              <span id="fileName" class="file-zone-name">Aucun fichier sélectionné</span>
+              <input id="schematicFile" type="file" accept=".schematic,.schem" />
+            </label>
+
+            <div class="controls-grid">
+              <label>
+                <span>Depuis</span>
+                <select id="sourcePack">
+                  <option value="nationsglory">NationsGlory</option>
+                  <option value="earthquest">EarthQuest</option>
+                </select>
+              </label>
+
+              <label>
+                <span>Vers</span>
+                <select id="targetPack">
+                  <option value="earthquest">EarthQuest</option>
+                  <option value="nationsglory">NationsGlory</option>
+                </select>
+              </label>
+
+              <label>
+                <span>Blocs sans correspondance</span>
+                <select id="unmappedMode">
+                  <option value="keep">Garder</option>
+                  <option value="air">Remplacer par air</option>
+                  <option value="error">Bloquer la conversion</option>
+                </select>
+              </label>
+
+              <label>
+                <span>Compression</span>
+                <select id="compressionMode">
+                  <option value="same">Identique</option>
+                  <option value="gzip">Gzip</option>
+                  <option value="deflate">Deflate</option>
+                  <option value="raw">Sans compression</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="actions">
+              <button id="convertButton" type="submit">Convertir</button>
+              <button id="swapButton" type="button" class="secondary">Inverser</button>
+            </div>
+          </form>
+        </div>
+
+        <div class="panel stats-panel">
+          <div class="stat-row">
+            <span>Mapping actif</span>
+            <strong id="mappingCount">-</strong>
+          </div>
+          <div class="stat-row">
+            <span>IDs connus source</span>
+            <strong id="knownCount">-</strong>
+          </div>
+          <div class="stat-row">
+            <span>Dernière conversion</span>
+            <strong id="changedCount">-</strong>
+          </div>
+          <div class="status-box" id="statusBox">Prêt.</div>
+        </div>
+      </section>
+
+      <section class="results" id="resultsSection" hidden>
+        <div class="panel">
+          <div class="result-head">
+            <div>
+              <h2>Rapport</h2>
+              <p id="reportSummary"></p>
+            </div>
+            <div class="result-actions">
+              <button id="saveReportButton" type="button" class="secondary">Rapport JSON</button>
+            </div>
+          </div>
+          <div id="reportDetails" class="report-grid"></div>
+        </div>
+      </section>
+
+      <section class="mapping-section">
+        <div class="mapping-toolbar">
+          <div>
+            <h2>Correspondances</h2>
+            <p id="mappingLabel"></p>
+          </div>
+          <input id="mappingSearch" type="search" placeholder="Rechercher un bloc ou un ID" />
+        </div>
+        <div class="mapping-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Source</th>
+                <th>ID source</th>
+                <th>Cible</th>
+                <th>ID cible</th>
+              </tr>
+            </thead>
+            <tbody id="mappingTable"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

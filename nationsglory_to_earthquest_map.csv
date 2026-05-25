@@ -1,0 +1,211 @@
+source_id,target_id,source_names,target_names
+490:0,2280:0,Copper Ore,copper_ore
+491:0,2281:0,Copper Block,copper_block
+492:0,2288:0,Tin Ore,tin_ore
+493:0,2289:0,Tin Block,tin_block
+560:0,2294:0,Fyrite Ore,fyrite_ore
+561:0,2295:0,Fyrite Block,fyrite_block
+562:0,2296:0,Malachite Ore,malachite_ore
+563:0,2297:0,Malachite Block,malachite_block
+564:0,2300:0,Ashstone Ore,ashstone_ore
+565:0,2301:0,Ashstone Block,ashstone_block
+566:0,2290:0,Illumenite Ore,illumenite_ore
+567:0,2291:0,Illumenite Block,illumenite_block
+568:0,2298:0,Dragonstone Ore,dragonstone_ore
+569:0,2299:0,Dragonstone Block,dragonstone_block
+570:0,2292:0,Argonite Ore,argonite_ore
+571:0,2293:0,Argonite Block,argonite_block
+1295:0,1917:0,leaves_block_4,leaves_block_4
+1622:0,3801:0,Pot,pot
+2000:0,1918:0,metal_block_0,metal_block_0
+2003:0,1922:0,metal_block_0_stair_1,metal_block_0_stair_1
+2004:0,1897:0,log_block_0,log_block_0
+2005:0,2019:0,yellow_flower_block_0,yellow_flower_block_0
+2006:0,2020:0,yellow_flower_block_1,yellow_flower_block_1
+2008:0,1919:0,metal_slab_block_0,metal_slab_block_0
+2009:0,1951:0,fence_block_0,fence_block_0
+2010:0,1856:0,stone_wall_block_0,stone_wall_block_0
+2011:0,1930:0,bars_iron_block_0,bars_iron_block_0
+2012:0,1867:0,sand_block_0,sand_block_0
+2013:0,1931:0,cuboid_block_0,cuboid_block_0
+2014:0,2064:0,torch_block_0,torch_block_0
+2015:0,1860:0,sandstone_block_0_stair_0,sandstone_block_0_stair_0
+2016:0,1913:0,leaves_block_0,leaves_block_0
+2017:0,1914:0,leaves_block_1,leaves_block_1
+2018:0,2047:0,crate_block_0,crate_block_0
+2019:0,1973:0,ladder_block_0,ladder_block_0
+2021:0,1868:0,sand_layer_0,sand_layer_0
+2022:0,1905:0,thin_log_0,thin_log_0
+2023:0,2068:0,bench_block_0,bench_block_0
+2024:0,2069:0,arrow_slits; arrow_slits_0,arrow_slits_0
+2025:0,1800:0,stone_block_0,stone_block_0
+2026:0,1949:0,six_sided_blocks_0,six_sided_blocks_0
+2027:0,1898:0,log_block_1,log_block_1
+2028:0,2067:0,bookshelves_block_0,bookshelves_block_0
+2029:0,1801:0,stone_block_1,stone_block_1
+2030:0,1906:0,wood_colours,wood_colours
+2031:0,2073:0,daub_wattle_block_0,daub_wattle_block_0
+2032:0,2065:0,light_emitting_blocks_0,light_emitting_blocks_0
+2033:0,1947:0,solid_blocks_0,solid_blocks_0
+2034:0,1950:0,soulsand_like_blocks_0,soulsand_like_blocks_0
+2035:0,1861:0,sandstone_block_0_stair_1,sandstone_block_0_stair_1
+2036:0,1862:0,sandstone_block_0_stair_2,sandstone_block_0_stair_2
+2037:0,1863:0,sandstone_block_0_stair_3,sandstone_block_0_stair_3
+2038:0,1864:0,sandstone_block_0_stair_4,sandstone_block_0_stair_4
+2039:0,1865:0,sandstone_block_0_stair_5,sandstone_block_0_stair_5
+2040:0,1866:0,sandstone_block_0_stair_8,sandstone_block_0_stair_8
+2041:0,1844:0,stone_slab_block_0,stone_slab_block_0
+2043:0,1810:0,stone_block_1_stair_0,stone_block_1_stair_0
+2044:0,1811:0,stone_block_1_stair_1,stone_block_1_stair_1
+2045:0,1845:0,stone_slab_block_1,stone_slab_block_1
+2047:0,1851:0,random_slab_block_0,random_slab_block_0
+2049:0,1812:0,stone_block_1_stair_2,stone_block_1_stair_2
+2050:0,1813:0,stone_block_1_stair_3,stone_block_1_stair_3
+2051:0,1814:0,stone_block_1_stair_4,stone_block_1_stair_4
+2052:0,1952:0,fence_block_1,fence_block_1
+2053:0,2050:0,web_block_0,web_block_0
+2055:0,1965:0,halfdoor_block_0,halfdoor_block_0
+2056:0,1966:0,halfdoor_block_1,halfdoor_block_1
+2057:0,2055:0,glasspane_net,glasspane_net
+2058:0,1899:0,log_block_2,log_block_2
+2059:0,2021:0,red_flower_block_0,red_flower_block_0
+2060:0,2022:0,red_flower_block_1,red_flower_block_1
+2061:0,2023:0,brown_mushroom_block_0,brown_mushroom_block_0
+2062:0,2024:0,red_mushroom_block_0,red_mushroom_block_0
+2063:0,2028:0,unshaded_grass_block_0,unshaded_grass_block_0
+2064:0,1932:0,cuboid_block_1,cuboid_block_1
+2065:0,1933:0,cuboid_block_2,cuboid_block_2
+2066:0,1934:0,cuboid_block_3,cuboid_block_3
+2067:0,2037:0,hopper_block_0,hopper_block_0
+2068:0,2038:0,hopper_block_1,hopper_block_1
+2069:0,1942:0,cuboid_nsewud_block_0; piston_block_0,cuboid_nsewud_block_0
+2070:0,1984:0,banner_block_0,banner_block_0
+2071:0,1802:0,stone_block_2,stone_block_2
+2072:0,2098:0,sound_blocks_0,sound_blocks_0
+2073:0,2075:0,thatch_stair_0,thatch_stair_0
+2074:0,2076:0,thatch_stair_1,thatch_stair_1
+2075:0,1843:0,stone_slab_stair_0,stone_slab_stair_0
+2076:0,1900:0,log_block_3,log_block_3
+2077:0,1915:0,leaves_block_2,leaves_block_2
+2078:0,1852:0,random_slab_block_1,random_slab_block_1
+2080:0,2043:0,rail_block_0,rail_block_0
+2081:0,1975:0,bed_block_0,bed_block_0
+2082:0,1976:0,bed_block_1,bed_block_1
+2083:0,1977:0,bed_block_2,bed_block_2
+2084:0,1978:0,bed_block_3,bed_block_3
+2085:0,1979:0,bed_block_4,bed_block_4
+2086:0,1980:0,bed_block_5,bed_block_5
+2087:0,1981:0,bed_block_6,bed_block_6
+2088:0,1982:0,bed_block_7,bed_block_7
+2089:0,1983:0,bed_block_8,bed_block_8
+2090:0,1967:0,halfdoor_block_2,halfdoor_block_2
+2091:0,2045:0,rope_block_1,rope_block_1
+2092:0,2077:0,orange_brick_stair_0,orange_brick_stair_0
+2093:0,1901:0,log_block_4,log_block_4
+2094:0,1985:0,banner_block_1,banner_block_1
+2095:0,1986:0,banner_block_2,banner_block_2
+2096:0,1987:0,banner_block_3,banner_block_3
+2097:0,1988:0,banner_block_4,banner_block_4
+2098:0,1989:0,banner_block_5,banner_block_5
+2099:0,1990:0,banner_block_6,banner_block_6
+2100:0,1991:0,banner_block_7,banner_block_7
+2101:0,1992:0,banner_block_8,banner_block_8
+2102:0,1993:0,banner_block_9,banner_block_9
+2103:0,1994:0,banner_block_10,banner_block_10
+2104:0,1995:0,banner_block_11,banner_block_11
+2105:0,1996:0,banner_block_12,banner_block_12
+2106:0,1997:0,banner_block_13,banner_block_13
+2107:0,1923:0,metal_block_0_stair_2,metal_block_0_stair_2
+2108:0,1924:0,metal_block_0_stair_3,metal_block_0_stair_3
+2109:0,1925:0,metal_block_0_stair_4,metal_block_0_stair_4
+2110:0,1926:0,metal_block_0_stair_5,metal_block_0_stair_5
+2111:0,1927:0,metal_block_0_stair_6; stone_block_4_stair_4,metal_block_0_stair_6
+2112:0,1928:0,metal_block_0_stair_7,metal_block_0_stair_7
+2113:0,2078:0,snow_stairs,snow_stairs
+2114:0,1910:0,northern_wood_stairs,northern_wood_stairs
+2115:0,1909:0,wood_slab_block_0,wood_slab_block_0
+2117:0,2079:0,bedrock_stairs,bedrock_stairs
+2118:0,2080:0,cobble_dark_stairs,cobble_dark_stairs
+2119:0,2046:0,rope_block_2,rope_block_2
+2120:0,1857:0,stone_wall_block_1,stone_wall_block_1
+2121:0,2066:0,fire_block_0,fire_block_0
+2122:0,1943:0,cuboid_nsewud_block_1; piston_block_1,cuboid_nsewud_block_1
+2125:0,2044:0,rail_block_1,rail_block_1
+2126:0,1803:0,stone_block_3,stone_block_3
+2127:0,1846:0,stone_slab_block_2,stone_slab_block_2
+2129:0,1816:0,stone_block_3_stair_0,stone_block_3_stair_0
+2130:0,1817:0,stone_block_3_stair_1,stone_block_3_stair_1
+2131:0,1953:0,fence_block_2,fence_block_2
+2132:0,2033:0,furnace_block_0,furnace_block_0
+2133:0,2034:0,furnace_block_1,furnace_block_1
+2134:0,2035:0,furnace_block_2,furnace_block_2
+2135:0,1818:0,stone_block_3_stair_2,stone_block_3_stair_2
+2136:0,2061:0,wool_slab_block_0,wool_slab_block_0
+2138:0,2062:0,wool_slab_block_1,wool_slab_block_1
+2140:0,1956:0,door_spruce,door_spruce
+2141:0,1869:0,sand_layer_1,sand_layer_1
+2142:0,1870:0,sand_layer_2,sand_layer_2
+2143:0,1871:0,sand_layer_3,sand_layer_3
+2144:0,2058:0,dornish_pane_0,dornish_pane_0
+2145:0,1968:0,halfdoor_block_3,halfdoor_block_3
+2146:0,1969:0,halfdoor_block_4,halfdoor_block_4
+2147:0,1819:0,stone_block_3_stair_3,stone_block_3_stair_3
+2148:0,1902:0,log_block_5,log_block_5
+2149:0,1948:0,solid_blocks_1,solid_blocks_1
+2150:0,1858:0,stone_wall_block_2,stone_wall_block_2
+2151:0,1820:0,stone_block_3_stair_4,stone_block_3_stair_4
+2152:0,1821:0,stone_block_3_stair_5,stone_block_3_stair_5
+2153:0,1822:0,stone_block_3_stair_6,stone_block_3_stair_6
+2154:0,2039:0,hopper_block_2,hopper_block_2
+2155:0,2051:0,web_block_1,web_block_1
+2156:0,2029:0,dead_bush_block_0,dead_bush_block_0
+2157:0,1804:0,stone_block_4,stone_block_4
+2158:0,2097:0,utility_block_0,utility_block_0
+2159:0,1829:0,stone_block_4_stair_0,stone_block_4_stair_0
+2160:0,1974:0,ladder_block_1,ladder_block_1
+2161:0,1935:0,cuboid_block_4; stone_cuboid_block_0,cuboid_block_4
+2162:0,2070:0,arrow_slits_1,arrow_slits_1
+2163:0,1847:0,stone_slab_block_3,stone_slab_block_3
+2165:0,1830:0,stone_block_4_stair_1,stone_block_4_stair_1
+2166:0,1944:0,cuboid_nsewud_block_2,cuboid_nsewud_block_2
+2167:0,2036:0,furnace_block_3,furnace_block_3
+2168:0,2048:0,crate_block_1,crate_block_1
+2169:0,1831:0,stone_block_4_stair_2,stone_block_4_stair_2
+2170:0,1957:0,door_weirwood,door_weirwood
+2172:0,2099:0,sound_blocks_1,sound_blocks_1
+2173:0,2100:0,sound_blocks_2,sound_blocks_2
+2174:0,2101:0,sound_blocks_3,sound_blocks_3
+2175:0,2052:0,web_block_2,web_block_2
+2176:0,1853:0,random_slab_block_2,random_slab_block_2
+2178:0,1854:0,random_slab_block_3,random_slab_block_3
+2180:0,1936:0,cuboid_block_5,cuboid_block_5
+2181:0,1833:0,stone_block_5_stair_0,stone_block_5_stair_0
+2182:0,2032:0,crop_block_1,crop_block_1
+2183:0,1998:0,banner_block_14,banner_block_14
+2184:0,1805:0,stone_block_5,stone_block_5
+2185:0,2059:0,translucent_wall_block_0,translucent_wall_block_0
+2186:0,2060:0,translucent_fence_block_0,translucent_fence_block_0
+2187:0,2053:0,translucent_web_block_0,translucent_web_block_0
+2188:0,2056:0,stained_glass_0,stained_glass_0
+2189:0,2057:0,stained_glass_pane_0,stained_glass_pane_0
+2190:0,1929:0,metal_block_0_stair_8,metal_block_0_stair_8
+2191:0,1963:0,door_secret_sandstone_red,door_secret_sandstone_red
+2192:0,2054:0,translucent_web_block_1,translucent_web_block_1
+2198:0,1832:0,stone_block_4_stair_3,stone_block_4_stair_3
+2199:0,1834:0,stone_block_5_stair_1,stone_block_5_stair_1
+2200:0,1835:0,stone_block_5_stair_2,stone_block_5_stair_2
+2205:0,2030:0,forest_block_0,forest_block_0
+2221:0,1916:0,leaves_block_3,leaves_block_3
+2789:0,493:0,sandStone,sandstone
+3841:0,477:0,Tuff,tuff
+4008:0,1999:0,banner_block_15,banner_block_15
+4009:0,2000:0,banner_block_16,banner_block_16
+4010:0,2001:0,banner_block_17,banner_block_17
+4011:0,2002:0,banner_block_18,banner_block_18
+4012:0,2003:0,banner_block_19,banner_block_19
+4013:0,2004:0,banner_block_20,banner_block_20
+4014:0,2005:0,banner_block_21,banner_block_21
+4015:0,2006:0,banner_block_22,banner_block_22
+4016:0,2007:0,banner_block_23,banner_block_23
+4017:0,2008:0,banner_block_24,banner_block_24
+4018:0,2009:0,banner_block_25,banner_block_25
